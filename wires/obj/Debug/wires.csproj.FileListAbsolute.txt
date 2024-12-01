@@ -1,0 +1,7 @@
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\obj\Debug\wires.csproj.AssemblyReference.cache
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\obj\Debug\wires.csproj.CoreCompileInputs.cache
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\bin\Debug\wires.exe.config
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\bin\Debug\wires.exe
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\bin\Debug\wires.pdb
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\obj\Debug\wires.exe
+C:\Users\boyss\Documents\General\GitHub\among-us-wires-task\wires\obj\Debug\wires.pdb
